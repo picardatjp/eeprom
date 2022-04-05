@@ -1,6 +1,6 @@
 # README
 # EEPROM PROGRAMMER
-#not done yet
+# not done yet
 Written for the PIC16f18313 to program the AT28Cxxx EEPROM.
 
 
